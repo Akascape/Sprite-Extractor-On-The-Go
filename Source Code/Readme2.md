@@ -1,5 +1,5 @@
 This is the source code of this project written in python with all the assets.(Dependencies not included)
-If you fork this Source Code Folder to your system so that you can use the python version of the program than install the modules first.
+If you fork this Source Code Folder to your system so that you can use the python version of the program then install the modules first.
 <br>Modules Used:
 <br>1) PIL
 <br>2) os

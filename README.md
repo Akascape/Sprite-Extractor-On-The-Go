@@ -1,4 +1,4 @@
-# Sprite-Extracter-On-The-Go
+# Sprite Extracter-On-The-Go
 This is an easy GUI (Python based) program that can extract sprite sheet images which are in a bundle to single images(with transparency).
 <br>You just need the sprite sheet image and the data file(example-.plist files) and then you can use this program to extract all the sprite images separately in a folder.
 <br>HOW TO USE

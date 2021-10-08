@@ -15,3 +15,4 @@ This is the source code of this project written in python with all the assets.(D
 <br>
 <br>Just simply run the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as shown in the Readme.md.
 <br>Also make sure you have the project assets too, or else it will not run
+<br>The executable(.exe) file is made with auto-py-to-exe converter. It is fully safe and secure to run.

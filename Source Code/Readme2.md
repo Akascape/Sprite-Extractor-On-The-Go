@@ -1,4 +1,5 @@
 This is the source code of this project written in python with all the assets.(Dependencies not included)
+Benefit of having the python version: You can view the full log of the extracted files in detail.
 If you fork this Source Code Folder to your system so that you can use the python version of the program then install the modules first.
 <br>Modules Used:
 <br>1) PIL

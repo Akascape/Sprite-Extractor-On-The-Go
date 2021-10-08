@@ -9,9 +9,9 @@ This is an easy GUI (Python based) program that can extract sprite sheet images 
 <br>5)Then check the folder which you will find in the main sprite file's folder.
 <br>NOTE:
 <br>1)Make sure the base name of both the files are same and they must be in the same directory(any).
-<br>2)Please do not paste any files in the Program's Folder or else it might get deleted(use this folder to open the program only).
-<br>3)If you extract the same files in the same location again, then the new extracted folder will replace the old folder if not renamed.
+<br>2)Please do not paste the main files in the Program's Folder or else it might get deleted(use that folder to open the program only).
+<br>
 <br>This is a very fast and easy to use program and will be helpful for many game developers to change and rebundle their sprite sheet in future.
-<br>I have run it many times and it works perfectly (specially with .plist files). It also supports xml, json and cocos extension.
+<br>I have tested it many times and it works perfectly (specially with .plist files). It also supports xml, json and cocos extension.
 Please open an issue if you find any error.
 Thanks for visiting! :)

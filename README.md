@@ -3,10 +3,8 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 ![HeadLabel](https://user-images.githubusercontent.com/89206401/136655387-3a8a7cf4-99ed-4416-bafa-fd0b4bbf9397.png)
 <br>You just need the sprite sheet image and the data file(example-.plist files) and then you can use this program to automatically extract all the sprite images in a folder.
 <br>HOW TO USE:
-<br>1)Download the 'Sprite-Extracter On-The-Go.zip'.
-<br>(If you don't want to run exe files then you can use the python based program given in the 'source code' folder.)
-https://github.com/Akascape/Sprite-Extracter-On-The-Go/blob/66c2cbbac4c8db53eace5b51245ce64a8328305a/Source%20Code/Plist%20Extracter%20On-The-Go.py
-<br>2)Unzip the 'Sprite Extracter On-The-Go.zip' and run the .py file from there.
+<br>1)Download the 'Sprite-Extracter On-The-Go.zip'
+<br>2)Unzip the 'Sprite Extracter On-The-Go.zip' and run the .py file from there. Make sure that you have all the modules installed.
 <br>3)You have to first input the sprite image file(.png) and the main data file in their respective sections.
 <br>4)Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
 <br>5)Then check the folder which you will find in the main sprite file's folder.
@@ -34,7 +32,6 @@ https://github.com/Akascape/Sprite-Extracter-On-The-Go/blob/66c2cbbac4c8db53eace
 <br>To install the modules, just open cmd and write "pip install module_name".
 <br>Just simply run the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as described in the Readme.md
 <br>Also make sure you have the project assets too, or else it will not run
-<br>The executable(.exe) file is made with auto-py-to-exe converter. It is fully safe and secure to run. If you use that then no need to install python.
 <br>Please open an issue if you find any error.
 <br>Download the zip file here:
 <br>https://github.com/Akascape/Sprite-Extracter-On-The-Go/releases

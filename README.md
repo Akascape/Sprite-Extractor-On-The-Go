@@ -3,7 +3,7 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 ![HeadLabel](https://user-images.githubusercontent.com/89206401/136655387-3a8a7cf4-99ed-4416-bafa-fd0b4bbf9397.png)
 <br>You just need the sprite sheet image and the data file(example-.plist files) and then you can use this program to automatically extract all the sprite images in a folder.
 <br>HOW TO USE:
-<br>1)Download the 'Sprite-Extracter On-The-Go.zip'
+<br>1)Download the 'Sprite-Extracter On-The-Go.zip' from the release page.
 <br>2)Unzip the 'Sprite Extracter On-The-Go.zip' and run the .py file from there. Make sure that you have all the modules installed.
 <br>3)You have to first input the sprite image file(.png) and the main data file in their respective sections.
 <br>4)Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.

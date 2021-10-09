@@ -5,6 +5,7 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>HOW TO USE:
 <br>1)Download the 'Sprite-Extracter-on-the-go.zip' file from this page.
 <br>  If you don't want to run exe file than you can download the python based program given in the 'source code' folder.
+https://github.com/Akascape/Sprite-Extracter-On-The-Go/blob/66c2cbbac4c8db53eace5b51245ce64a8328305a/Source%20Code/Plist%20Extracter%20On-The-Go.py
 <br>2)Unzip the folder and run the 'Sprite Extracter on-the-go.exe' file to open it.
 <br>3)You have to first input the sprite image file(.png) and the main data file(.plist file) in their respective section.
 <br>4)Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.

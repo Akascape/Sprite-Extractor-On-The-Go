@@ -29,7 +29,7 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>9) xml.etree
 <br>
 <br>To install the modules, just open cmd and write "pip install module_name".
-<br>Just simply run the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as described in the Readme.md
+<br>Just simply double click the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as described in the Readme.md
 <br>Also make sure you have the project assets too, or else it will not run
 <br>Please open an issue if you find any error.
 <br>Thanks for visiting! :)

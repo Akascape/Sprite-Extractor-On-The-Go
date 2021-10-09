@@ -20,4 +20,5 @@ https://github.com/Akascape/Sprite-Extracter-On-The-Go/blob/66c2cbbac4c8db53eace
 <br>(Games using this method have their main files inside their assets folder)
 <br>I have tested it many times and it works perfectly (specially with .plist files). It supports plist, xml, json and cocos extensions.
 <br>Please open an issue if you find any error.
+<br>Download:Spite Extracter On-The-Go.zip
 <br>Thanks for visiting! :)

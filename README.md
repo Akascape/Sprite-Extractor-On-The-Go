@@ -17,18 +17,10 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>(Games using this method have their main files inside their assets folder)
 <br>I have tested it many times and it works perfectly (specially with .plist files). It supports plist, xml, json and cocos extensions.
 <br>
-<br>Modules Used:
+<br>Module you need to install (if not installed):
 <br>1) PIL
-<br>2) os
-<br>3) tkinter
-<br>4) shutil
-<br>5) time
-<br>6) sys
-<br>7) json
-<br>8) plistlib
-<br>9) xml.etree
 <br>
-<br>To install the modules, just open cmd and write "pip install module_name".
+<br>To install this module, just open cmd and write "pip install PIL".
 <br>Just simply double click the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as described above.
 <br>Also make sure you have the project assets too, or else it will not run
 <br>Please open an issue if you find any error.

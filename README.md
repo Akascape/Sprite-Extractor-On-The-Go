@@ -11,13 +11,13 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>2)Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
 <br>Module you need to install (if not installed):
 <br>1) PIL
-<br>
 <br>To install this module, just open cmd and write "pip install PIL".
 <br>Just simply double click the 'Sprite Extracter On-the-go.py' to enter the GUI. Then just use it as described above.
 <br>Also make sure you have the project assets too, or else it will not run
 <br>
 <br>---For Non-Python systems:
 <br>1)Download the Non-Python folder where you will find the 'Sprite-Extracter On-The-Go.exe', then just run it simply inside that folder and it will work same as the python version. Please dont change the default folder.
+<br>
 <br>➤How To Use:
 <br>3)After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
 <br>4)Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.

@@ -7,7 +7,7 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>---For Python users:
 <br>1)Download the 'Sprite-Extracter On-The-Go.zip' from this page (just clone the repository).
 <br>2)Unzip the 'Sprite Extracter On-The-Go.zip'.
-<br>3)Just simply double click the 'Sprite Extracter On-the-go.py' to enter the application and follow the instructions.
+<br>3)Just simply double click the 'Sprite Extracter On-the-go.py' to enter the application and follow the instructions. Modules will be automatically installed so no need to worry, just restart the program after installing.
 <br>
 <br>---For Non-Python systems:
 <br>1)Download the same zip file and open the Non-Python folder where you will find the 'Sprite-Extracter On-The-Go.exe'.

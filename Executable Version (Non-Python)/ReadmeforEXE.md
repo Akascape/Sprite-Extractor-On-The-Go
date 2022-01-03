@@ -1,2 +1,0 @@
-This is the same program of sprite extracter in .exe form. Now it can easily be used in systems having no python installed and it also runs faster. 
-<br> This version is created with Auto-Py-to-exe converter, nothing malicious is there, just run normally.

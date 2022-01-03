@@ -20,7 +20,7 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 <br>4)Make sure the base name of both the files are same and they must be in the same directory(any).
 <br>5)Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
 <br>
-## User Interface:
+## UI:
 ![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
 <br>This is a very fast and easy to use program and will be helpful for many game developers who want to change and rebundle their sprite sheet in future. Or you can also use it to get good asset images of games for editing.
 <br>(For your knowledge, games using this method have their main files inside their assets folder)

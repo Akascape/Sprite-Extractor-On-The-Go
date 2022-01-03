@@ -11,17 +11,15 @@ Just simply run the 'Sprite Extracter On-the-go.py' to enter the application and
 Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' and it will work same as the python version. Please dont change any default folders.
 <br>
 ## How To Use:
-1)After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
-<br>2)Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
-<br>3)Then check the folder which you will find in the main sprite file's folder.
-<br>4)Make sure the base name of both the files are same and they must be in the same directory(any).
-<br>5)Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
+1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
+<br>2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
+<br>3) Then check the folder which you will find in the main sprite file's folder.
+<br>4) Make sure the base name of both the files are same and they must be in the same directory(any).
+<br>5) Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
 <br>
 ## UI:
 ![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
-<br>This is a very fast and easy to use program and will be helpful for many game developers who want to change and rebundle their sprite sheet in future. Or you can also use it to get good asset images of games for editing.
-<br>(For your knowledge, games using this method have their main files inside their assets folder)
-<br>I have tested it many times and it works perfectly (specially with .plist files). It supports plist, xml, json and cocos extensions.
+<br>This is a very fast and easy to use program and will be helpful for many game developers who want to change and rebundle their sprite sheets in future. Or you can also use it to get good asset images of games for editing.
+<br>I have tested it many times and it works perfectly (specially with .plist files). It supports plist, xml, json and cocos data files.
 <br>
-<br>Please open an issue if you find any error.
 ## Thanks for visiting! :)

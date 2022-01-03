@@ -11,11 +11,10 @@ Just simply run the 'Sprite Extracter On-the-go.py' to enter the application and
 Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' and it will work same as the python version. Please dont change any default folders.
 <br>
 ## How To Use:
-1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
+<br>1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
 <br>2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
-<br>3) Then check the folder which you will find in the main sprite file's folder.
-<br>4) Make sure the base name of both the files are same and they must be in the same directory(any).
-<br>5) Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
+<br>3) Then check the folder which will be created in the same directory.
+<br>(Make sure the base name of both the files are same and they are in the same directory).
 <br>
 ## UI:
 <br>![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)

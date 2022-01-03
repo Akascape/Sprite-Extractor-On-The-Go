@@ -18,7 +18,7 @@ Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' 
 <br>5) Please do not paste the main files in the program's folder or else it might get deleted(use that folder to open the program only).
 <br>
 ## UI:
-![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
+<br>![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
 <br>This is a very fast and easy to use program and will be helpful for many game developers who want to change and rebundle their sprite sheets in future. Or you can also use it to get good asset images of games for editing.
 <br>I have tested it many times and it works perfectly (specially with .plist files). It supports plist, xml, json and cocos data files.
 <br>

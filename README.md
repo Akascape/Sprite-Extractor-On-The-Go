@@ -8,7 +8,7 @@ First [DOWNLOAD](https://github.com/Akascape/Sprite-Extracter-On-The-Go/archive/
 ### For Python users:
 Just simply run the 'Sprite Extracter On-the-go.py' to enter the application and follow the instructions. Modules will be automatically installed so no need to worry, just restart the program after installing.
 ### For Windows version:
-Open the non-python version folder and run the 'Sprite Extracter On-the-go.exe', then just run it simply inside that folder and it will work same as the python version. Please dont change the default folders.
+Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' and it will work same as the python version. Please dont change any default folders.
 <br>
 ## How To Use:
 1)After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.

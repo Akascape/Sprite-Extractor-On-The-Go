@@ -6,10 +6,9 @@ This is an easy GUI (Python based) program that can unpack sprite sheet images (
 ## INSTALLATION
 First [DOWNLOAD](https://github.com/Akascape/Sprite-Extracter-On-The-Go/archive/refs/heads/Version-1.0.zip) this repository then unzip the file and use your desired verison
 ### For Python users:
-<br>Just simply double click the 'Sprite Extracter On-the-go.py' to enter the application and follow the instructions. Modules will be automatically installed so no need to worry, just restart the program after installing.
+Just simply double click the 'Sprite Extracter On-the-go.py' to enter the application and follow the instructions. Modules will be automatically installed so no need to worry, just restart the program after installing.
 ### For Windows version:
 Open the non-python version folder and run the 'Sprite Extracter On-the-go.exe', then just run it simply inside that folder and it will work same as the python version. Please dont change the default folders.
-<br>
 <br>
 ## How To Use:
 1)After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.

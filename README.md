@@ -12,9 +12,9 @@ Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' 
 <br>
 ## How To Use?
 1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
-<br>2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
-<br>3) Then check the output folder which will be created in the same directory.
-<br>(Make sure the base name of both the files are same and they are in the same directory).
+<br> 2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
+<br> 3) Then check the output folder which will be created in the same directory.
+<br> (Make sure the base name of both the files are same and they are in the same directory).
 <br>
 ## UI
 <br> ![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)

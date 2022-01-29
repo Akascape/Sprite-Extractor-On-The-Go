@@ -11,13 +11,13 @@ Just simply run the 'Sprite Extracter On-the-go.py' to enter the application and
 Open the executable version folder and run the 'Sprite Extracter On-the-go.exe' and it will work same as the python version. Please dont change any default folders.
 <br>
 ## How To Use?
-1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
-<br> 2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
-<br> 3) Then check the output folder which will be created in the same directory.
-<br> (Make sure the base name of both the files are same and they are in the same directory).
+<br>1) After entering the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
+<br>2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
+<br>3) Then check the output folder which will be created in the same directory.
+<br>(Make sure the base name of both the files are same and they are in the same directory).
 <br>
 ## UI
-<br> ![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
+<br>![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
 <br>
 <br>This is a very fast and easy to use program and helpful for many game developers who want to change and rebundle their sprite sheets in future. You can also use it to get good asset images of games for editing. I have tested it many times and it works perfectly. It supports plist, xml, json and cocos data files.
 <br>

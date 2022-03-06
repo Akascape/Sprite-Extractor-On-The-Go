@@ -20,6 +20,6 @@ Download the source code and extract the zip and just simply run the 'Sprite Ext
 <br>![gui](https://user-images.githubusercontent.com/89206401/156932748-36529f1c-abaa-46f0-8e4a-75d0840e9154.png)
 <br>
 ## Conclusion
->This is a very quick and easy to use program. It can be helpful for many game developers who want to change and rebundle their sprite sheets in future. You can also use it to get good asset images of games for editing or any other purposes. I have tested it many times with game files from mini militia and it works perfectly. It supports plist, xml, json and cocos data files.
+This is a very quick and easy to use program. It can be helpful for many game developers who want to change and rebundle their sprite sheets in future. You can also use it to get good asset images of games for editing or any other purposes. I have tested it many times with game files from mini militia and it works perfectly. It supports plist, xml, json and cocos data files.
 <br>
 ## Thanks for visiting! :)

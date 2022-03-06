@@ -1,6 +1,6 @@
 # Sprite Extractor On The Go
 This is an easy GUI (Python based) program that can unpack sprite sheet images (which are in a bundle form packed by texture packer) to separate png images(transparency included) and put them in a folder.
-<br><p align='center'>![HeadLabel](https://user-images.githubusercontent.com/89206401/136655387-3a8a7cf4-99ed-4416-bafa-fd0b4bbf9397.png)</p>
+<br><p align='center'>![HeadLabel](https://user-images.githubusercontent.com/89206401/156932646-3de21c52-f4b6-44c8-b25d-ed6a58341508.png)</p>
 <br>You just need the sprite sheet image and the data file(like .plist files) and then you can use this program to automatically extract all the sprite images in a separate folder.
 <br>
 ## DOWNLOAD & INSTALLATION
@@ -15,7 +15,7 @@ Open the executable version folder and run the 'Sprite Extractor On-the-go.exe' 
 3) Then check the output folder which will be created in the same directory.
 (Make sure the base name of both the files are same and they are in the same directory).
 ## UI
-<br>![image](https://user-images.githubusercontent.com/89206401/136655763-ddfb4090-c9cf-4397-bebc-1c5d6a2fff8c.png)
+<br>![gui](https://user-images.githubusercontent.com/89206401/156932748-36529f1c-abaa-46f0-8e4a-75d0840e9154.png)
 <br>
 <br>This is a very fast and easy to use program and helpful for many game developers who want to change and rebundle their sprite sheets in future. You can also use it to get good asset images of games for editing. I have tested it many times and it works perfectly. It supports plist, xml, json and cocos data files.
 <br>

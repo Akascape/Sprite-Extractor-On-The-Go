@@ -16,6 +16,8 @@ Download the source code and extract the zip and just simply run the 'Sprite Ext
 2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
 3) Then check the output folder which will be created in the same directory.
 (Make sure the base name of both the files are same and they are in the same directory).
+## Quick Tutorial
+[![Click to watch!](https://img.youtube.com/vi/YPxh8ihErjE/0.jpg)](https://youtu.be/YPxh8ihErjE)
 ## UI
 <br>![gui](https://user-images.githubusercontent.com/89206401/156932748-36529f1c-abaa-46f0-8e4a-75d0840e9154.png)
 <br>

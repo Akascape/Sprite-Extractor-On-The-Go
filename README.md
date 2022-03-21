@@ -1,5 +1,5 @@
 # Sprite Extractor On The Go
-This is an easy GUI (Python based) program that can unpack sprite sheet images (which are in a bundle form packed by texture packer) to separate png images(transparency included) and put them in a folder.
+This is an easy to use GUI (Python based) program that can unpack sprite sheet images (which are in a bundle form packed by texture packer) to separate png images(transparency included) and put them in a folder.
 <br><p align='center'>![HeadLabel](https://user-images.githubusercontent.com/89206401/156932646-3de21c52-f4b6-44c8-b25d-ed6a58341508.png)</p>
 <br>You just need the sprite sheet image and the data file(like .plist files) and then you can use this program to automatically extract all the sprite images in a separate folder.
 <br>

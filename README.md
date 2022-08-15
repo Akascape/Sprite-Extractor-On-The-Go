@@ -5,7 +5,7 @@ This is an easy to use GUI (Python based) program that can unpack sprite sheet i
 <br>
 ## DOWNLOAD 
 ### [<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?display_name=release&label=Windows&logo=Windows&logoColor=019df4&style=for-the-badge" width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/releases/download/Sprite_Extracter_On-The-Go.zip/Sprite.Extractor.On-The-Go.zip)
-### [<img alt="source code" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?color=9508e2&label=Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/archive/refs/heads/Version-1.0.zip)
+### [<img alt="source code" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?color=9508e2&label=Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/archive/refs/heads/Main.zip)
 ## INSTALLATION
 ### For Windows version:
 Extract the downloaded zip file and run 'Sprite Extractor On-the-go.exe' to use it. It is tested and works perfectly in Windows!

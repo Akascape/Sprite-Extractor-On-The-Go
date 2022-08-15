@@ -347,6 +347,9 @@ def Extract():
                         messagebox.showerror("Something Went Wrong!", "Please check the files and retry!")     
                     btn['state']=NORMAL
                     btn['cursor']=''
+                    my_progress.place_forget()
+                    loglabel.place_forget()
+                    Wait.place_forget()
             else:
                 messagebox.showwarning("OOPS", "Please choose the files first!")
         except:
@@ -376,11 +379,11 @@ headlabel=Label(image=HeadLabelIMG,borderwidth=0, highlightthickness=0, padx=0,p
 headlabel.grid()
 LocationError=Label(root,text="PLEASE CHOOSE THE SPRITE IMAGE",fg="#6D76CD",bg='#FFFFFF', font=("Aharoni",15))
 LocationError.grid()
-saveImg=Button(root, width=90,bg="#82CC6C",fg="white",highlightthickness=1,borderwidth=0.2,text="Open",relief="groove", command=openfile)
+saveImg=Button(root, width=90,bg="#82CC6C",fg="white",highlightthickness=1,borderwidth=0.2,text="Open",relief="groove", font=("Aharoni",10), command=openfile)
 saveImg.grid()
 LocationError2=Label(root,text="PLEASE CHOOSE THE DATA FILE",fg="#6D76CD",bg='#FFFFFF', font=("Aharoni",15))
 LocationError2.grid()
-savePlist=Button(root, width=90,bg="#82CC6C",highlightthickness=1,borderwidth=0.2,fg="white", text="Open",relief="groove", command=openfile2)
+savePlist=Button(root, width=90,bg="#82CC6C",highlightthickness=1,borderwidth=0.2,fg="white", text="Open", font=("Aharoni",10),relief="groove", command=openfile2)
 savePlist.grid()
 path2=resource_path0("Extractbtn.png")
 Icon=PhotoImage(file=path2)
@@ -399,4 +402,4 @@ link.bind("<Button-1>", lambda e:
 callback("https://github.com/Akascape/Sprite-Extracter-On-The-Go"))
 root.mainloop()
 #DEVELOPER: AKASH BORA (a.k.a Akascape)
-#Version=1.0
+#Version=1.1

@@ -13,8 +13,8 @@ Extract the downloaded zip file and run 'Sprite Extractor On-the-go.exe' to use 
 Download the source code and extract the zip and just simply run the 'Sprite Extractor On-the-go.py' to enter the application and follow the instructions. Modules will be automatically installed so no need to worry, just restart the program after installing and it will work perfectly.
 ## How To Use?
 1) After opening the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
-2) Then just click on the extract button and it will take a few seconds to extract the sprite sheet images.
-3) Then check the output folder which will be created in the same directory.
+2) Then just click on the extract button and select the output directory.
+3) Then check the output folder which will be created in that directory.
 (Make sure the base name of both the files are same and they are in the same directory).
 ## Quick Tutorial
 [![Click to watch!](https://img.youtube.com/vi/YPxh8ihErjE/0.jpg)](https://youtu.be/YPxh8ihErjE)

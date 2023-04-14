@@ -3,7 +3,7 @@
 <br><p align='center'>![HeadLabel](https://user-images.githubusercontent.com/89206401/156932646-3de21c52-f4b6-44c8-b25d-ed6a58341508.png)</p>
 <br>
 ## DOWNLOAD 
-### [<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?display_name=release&label=Windows&logo=Windows&logoColor=019df4&style=for-the-badge" width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/releases/download/Sprite_Extracter_On-The-Go.zip/Sprite.Extractor.On-The-Go.zip)
+### [<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?display_name=release&label=Windows&logo=Windows&logoColor=019df4&style=for-the-badge" width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/releases/download/Sprite-Extracter-EXE/Sprite-Extractor_OTG.zip)
 ### [<img alt="source code" src="https://img.shields.io/github/v/release/Akascape/Sprite-Extractor-On-The-Go?color=9508e2&label=Source%20Code&logo=Python&logoColor=yellow&style=for-the-badge"  width="400">](https://github.com/Akascape/Sprite-Extractor-On-The-Go/archive/refs/heads/Main.zip)
 ## INSTALLATION
 ### For Windows version:

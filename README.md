@@ -16,7 +16,6 @@ Download the source code and extract the zip and just simply run the `Sprite Ext
 2) Then just click on the **EXTRACT** button and select the output directory.
 3) Then check the output folder which will be created in that directory.
 
-(Make sure the base name of both the files are same and they are in the same directory).
 ## Quick Tutorial
 [![Click to watch!](https://img.youtube.com/vi/YPxh8ihErjE/0.jpg)](https://youtu.be/YPxh8ihErjE)
 ## UI

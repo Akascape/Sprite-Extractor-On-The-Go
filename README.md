@@ -10,11 +10,12 @@ This is an easy to use GUI (Python based) program that can unpack sprite sheet i
 ### For Windows version:
 Extract the downloaded zip file and run 'Sprite Extractor On-the-go.exe' to use it. It is tested and works perfectly in Windows!
 ### For Python users:
-Download the source code and extract the zip and just simply run the 'Sprite Extractor On-the-go.py' to enter the application and follow the instructions.
+Download the source code and extract the zip and just simply run the `Sprite Extractor On-the-go.py` to enter the application and follow the instructions.
 ## How To Use?
-1) After opening the program, you have to first input the sprite image file(.png) and the main data file(like .plist) in their respective sections.
-2) Then just click on the extract button and select the output directory.
+1) After opening the program, you have to first input the sprite **image file**(.png) and the main **data file**(like .plist) in their respective sections.
+2) Then just click on the **EXTRACT** button and select the output directory.
 3) Then check the output folder which will be created in that directory.
+
 (Make sure the base name of both the files are same and they are in the same directory).
 ## Quick Tutorial
 [![Click to watch!](https://img.youtube.com/vi/YPxh8ihErjE/0.jpg)](https://youtu.be/YPxh8ihErjE)

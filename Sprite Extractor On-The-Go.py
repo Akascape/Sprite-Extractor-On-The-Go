@@ -1,6 +1,6 @@
 # SPRITE EXTRACTOR OTG
 # DEVELOPER: AKASH BORA (Akascape)
-# Version: 1.2
+# Version: 1.3
 
 import os
 from tkinter import *
@@ -35,8 +35,7 @@ def openfile():
         
 def openfile2():
     global file2, extension
-    file2 = tkinter.filedialog.askopenfilename(filetypes =[('PLIST', '*.plist'),('XML', '*.xml'),('JSON', '*.json'),
-                                                         ('COCOS', '*.cocos'),('All Files', '*.*')])
+    file2 = tkinter.filedialog.askopenfilename(filetypes =[('Data File', ['*.plist', '*.xml', '*.json', '*.cocos']),('All Files', '*.*')])
     if file2:
         locationlabel2.config(text=os.path.basename(file2), fg="#6D76CD", font=("Aharoni",15))
         savePlist['text']='Open Again'
@@ -133,7 +132,6 @@ def ExtractSprite(imagefile, datafile):
         
         elif format == 'xml':
             data = ElementTree.parse(data_filename).getroot()
-            data2 = data.findall('SubTexture')
             frames = {}
             for f in data:
                 x = int(f.get('x'))
@@ -143,9 +141,12 @@ def ExtractSprite(imagefile, datafile):
                     rotated = False
                 else:
                     rotated = True
-
-                w = int(f.get('width'))
-                h = int(f.get('height'))
+                try:
+                    w = int(f.get('w'))
+                    h = int(f.get('h'))
+                except:
+                    w = int(f.get('width'))
+                    h = int(f.get('height'))
 
                 if 'frameHeight' in f.attrib:
                     real_w = int(f.get('frameHeight') if rotated else f.get('frameWidth'))
@@ -172,7 +173,11 @@ def ExtractSprite(imagefile, datafile):
                     ),
                     'rotated': rotated
                 }
-                frames[f.get('name')] = d
+                try:
+                    frames[f.get('n')] = d
+                except:
+                    frames[f.get('name')] = d
+                    
             return frames.items()
         
         elif format == 'cocos':
@@ -213,6 +218,7 @@ def ExtractSprite(imagefile, datafile):
         frames = frames_from_data(filename, format)
         total_frames = len(frames)
         x = 1
+        
         for k, v in frames:
             frame = v
             box = frame['box']
@@ -223,8 +229,8 @@ def ExtractSprite(imagefile, datafile):
             result_image.paste(rect_on_big, result_box, mask=0)
             if frame['rotated']:
                 result_image = result_image.rotate(90)
-                
-            outfile = (os.path.join(dest, k)).replace('gift_', '')
+            
+            outfile = os.path.join(dest, k.replace(".png","")[:-4]+".png")
             if not os.path.isdir(dest):
                 os.makedirs(dest)
                 
@@ -267,11 +273,11 @@ def Extract():
             time.sleep(1)
             Wait.config(text="DONE! 100%", fg="#6D76CD",bg='#FFFFFF', font=("Aharoni",15))
             messagebox.showinfo("DONE!", "Images Extracted Successfuly! \nPlease check the folder: "+dest)
-        
-        except:
+
+        except Exception as errors:
             loglabel.place_forget()
             Wait.config(text="", fg="#6D76CD",bg='#FFFFFF', font=("Aharoni",15))
-            messagebox.showerror("OOPS!", "Something went wrong!")
+            messagebox.showerror("OOPS!", f"Something went wrong! \nLogs: {errors}")
         
         my_progress.stop()
         my_progress.place_forget()
